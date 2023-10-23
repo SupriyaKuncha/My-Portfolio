@@ -395,6 +395,12 @@ letter-spacing: 0.7px;
 
 }
 
+@media(max-width:360px){
+    .selfIntro-section{
+        padding: 50px 100px 0px 50px;
+    }
+
+    }
 @media (max-width: 280px) {
 
     .selfIntro-section2,
@@ -412,8 +418,6 @@ letter-spacing: 0.7px;
         padding-right: 90px;
         padding-bottom: 10px;
     }
-    .navbar-brand,
-    .navbar-toggler{
-        
-    }
+
 }
+
