@@ -232,15 +232,9 @@ letter-spacing: 0.7px;
         margin-top: 40px !important;
         width: 900px !important;
     }
-        .fa-html5 {
-        font-size: 23px;
-        
-    }
-    .fa-css3-alt {
-        font-size: 23px;
-        
-    }
-    .fa-square-js {
+      .fa-html5,
+        .fa-css3-alt, 
+        .fa-square-js{
         font-size: 23px;
         
     }
@@ -270,15 +264,9 @@ letter-spacing: 0.7px;
         margin-top: 40px;
         
     }
-    .fa-html5 {
-        font-size: 25px;
-        
-    }
-    .fa-css3-alt {
-        font-size: 25px;
-        
-    }
-    .fa-square-js {
+      .fa-html5,
+        .fa-css3-alt, 
+        .fa-square-js{
         font-size: 25px;
         
     }
@@ -318,5 +306,22 @@ letter-spacing: 0.7px;
       .tech-stack i{
     margin: 10px !important;
   }   
+}
+@media(max-width:374px){
+    .selfIntro-section{
+        padding: 50px 70px 100px 70px;
+    }
+    .project-container h2{
+        font-size: 23px;
+    }
+    .project-container p{
+        font-size: 15px;
+    }
+          .tech-stack i{
+    margin: 10px !important;
+  } 
+        .code-demo a{
+    font-size: 15px;
+    }
 }
 
