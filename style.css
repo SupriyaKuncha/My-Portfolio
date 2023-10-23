@@ -399,7 +399,9 @@ letter-spacing: 0.7px;
     .selfIntro-section{
         padding: 50px 110px 40px 50px;
     }
-
+    .selfIntro-section1{
+        font-size: 40px ;
+    }
     }
 @media (max-width: 280px) {
 
