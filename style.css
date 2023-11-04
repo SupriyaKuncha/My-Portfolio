@@ -29,6 +29,7 @@ body {
   padding-left: 50px;
   color: var(--primary-color);
 }
+
 /* styling for index.html */
 .selfIntro-section {
   display: flex;
