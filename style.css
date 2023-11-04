@@ -127,8 +127,6 @@ body {
   color: black;
 }
 .project-img {
-  width: 500px;
-  height: auto;
   box-shadow: var(--box-shadow);
 }
 .footer {
