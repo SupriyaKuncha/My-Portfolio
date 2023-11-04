@@ -142,6 +142,11 @@ body {
   font-size: 30px;
 }
 /* styling for about page */
+.content{
+  display: flex;
+flex-direction: column;
+}
+
 .content-container {
   padding-top: 60px;
 }
