@@ -289,9 +289,14 @@ color: var(--primary-color);
   h1 {
     text-align: center;
   }
+.content-container.m-5 {
+    margin: -1rem!important;
+}
   .aboutme {
     text-align: center;
+
   }
+
 }
 
 @media (max-width: 280px) {
