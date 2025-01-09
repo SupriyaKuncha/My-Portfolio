@@ -44,7 +44,7 @@ body {
 .selfIntro-section1,
 .selfIntro-section2 {
   /* font-family: var(font-family); */
-  font-family: "Roboto", sans-serif;
+/*   font-family: "Roboto", sans-serif; */
   font-size: 90px;
   font-weight: 900;
   color: var(--primary-color);
